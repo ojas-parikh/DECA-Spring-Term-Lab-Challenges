@@ -1,3 +1,3 @@
 # DECA-Spring-Term-Lab-Challenges
 
-#Lab2:
+Lab2:
