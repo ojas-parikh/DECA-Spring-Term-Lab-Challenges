@@ -16,3 +16,5 @@ Unfortunately, time constraints have limited my ability to further improve my de
 My EEP1 design with my multiplier can be found in the files of this repository, as can the code needed to implement a multiplication.
 
 Further explanation of the design/ design process can be found in my Logbook.
+
+If all "copy" files are downloaded and opened with ISSIE you should see an EEP1 with my multiplier implemented.
