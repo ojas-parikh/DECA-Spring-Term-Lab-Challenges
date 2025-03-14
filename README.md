@@ -1,4 +1,4 @@
-# DECA-Spring-Term-Lab-Challenges
+<img width="758" alt="Screenshot 2025-03-14 at 11 09 43" src="https://github.com/user-attachments/assets/9fe9b88d-dbc4-4e14-9eb2-23dc278d0549" /># DECA-Spring-Term-Lab-Challenges
 
 Lab2:Challenge
 
@@ -18,3 +18,7 @@ My EEP1 design with my multiplier can be found in the files of this repository, 
 Further explanation of the design/ design process can be found in my Logbook.
 
 If all "copy" files are downloaded and opened with ISSIE you should see an EEP1 with my multiplier implemented.
+
+<img width="980" alt="Screenshot 2025-03-14 at 11 09 11" src="https://github.com/user-attachments/assets/b5fbec71-abb6-4631-84c4-8178426b851a" />
+<img width="647" alt="Screenshot 2025-03-14 at 11 09 31" src="https://github.com/user-attachments/assets/bc0c9fe5-8863-4f10-b4bd-e331ff966ad8" />
+<img width="758" alt="Screenshot 2025-03-14 at 11 09 43" src="https://github.com/user-attachments/assets/50f2a63e-092d-49c6-9ffd-eeefba0b5931" />
