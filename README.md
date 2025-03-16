@@ -35,3 +35,5 @@ This is an improvement over the purely software implementation.
 
 My multiplier works for these tests I have done 12x5, 12x12, 5x100 , 0x10 x 16. They all take a total of 22 clock cycles.
 
+However this design didn't always work due to timing issues. My final design can be found int the multv4 sheet, it uses 29 adders however I think this could be reduce to 25/24 adders with a bit more design work on the counters but I couldn't find the time to do this before the deadline.
+
